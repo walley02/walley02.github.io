@@ -9,7 +9,7 @@
 <img src="redshit.png">
 <img src="eve_port.png">
 <img src="lau_port.png">
-<audio controls loop>
+<audio controls autoplay>
   <source src="background.mp3" type="audio/mpeg">
 </audio>
 <audio controls autoplay>

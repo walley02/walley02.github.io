@@ -12,6 +12,6 @@
 <audio controls autoplay>
   <source src="death.mp3" type="audio/mpeg">
 </audio>
-<audio controls autoplay>
+<audio controls loop>
   <source src="intro_main" type="audio/mpeg">
 </audio>

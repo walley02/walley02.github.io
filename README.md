@@ -9,7 +9,7 @@
 <img src="redshit.png">
 <img src="eve_port.png">
 <img src="lau_port.png">
-<audio>
+<audio controls autoplay>
   <source src="background.mp3" type="audio/mpeg">
   <source src="death.mp3" type="audio/mpeg">
 </audio>

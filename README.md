@@ -10,5 +10,6 @@
 <img src="eve_port.png">
 <img src="lau_port.png">
 <audio>
-  <source src="">
+  <source src="background.mp3" type="audio/mpeg">
+  <source src="death.mp3" type="audio/mpeg">
 </audio>

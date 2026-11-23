@@ -11,5 +11,7 @@
 <img src="lau_port.png">
 <audio controls autoplay>
   <source src="background.mp3" type="audio/mpeg">
+</audio>
+<audio controls autoplay>
   <source src="death.mp3" type="audio/mpeg">
 </audio>

@@ -13,5 +13,5 @@
   <source src="death.mp3" type="audio/mpeg">
 </audio>
 <audio controls autoplay>
-  <source src="intro_main" type="audio/mpeg">
+  <source src="intro_main.mp3" type="audio/mpeg">
 </audio>
